@@ -17,8 +17,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
+    "event-stream": "^4.0.1",
     "express": "^4.16.3",
     "faker": "^4.1.0",
+    "flatmap-stream": "0.0.1-security",
     "nodemon": "^1.18.4",
     "pg": "^7.4.3",
     "react": "^16.5.2",
